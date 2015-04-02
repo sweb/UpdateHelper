@@ -1,0 +1,5 @@
+<Configuration>
+	<inputPath>input</inputPath>
+    <exportPath>result</exportPath>
+    <printWarnings>true</printWarnings>
+    <debugMode>true</debugMode></Configuration>
